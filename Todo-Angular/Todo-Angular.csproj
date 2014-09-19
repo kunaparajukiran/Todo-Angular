@@ -130,6 +130,7 @@
     <Content Include="Content\todo.css" />
     <Content Include="favicon.ico" />
     <Content Include="index.html" />
+    <Content Include="Newpage.html" />
     <Content Include="Scripts\angular-mocks.js" />
     <Content Include="Scripts\angular.js" />
     <Content Include="Scripts\angular.min.js" />
